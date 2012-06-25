@@ -15,7 +15,7 @@ config.cfg
 host = foo.com.br
 username = varnishadm
 password = /root/.ssh/id_rsa.pub
-'''
+
 To inicialize the console:
 
 ./varnishadm.py -c config.cfg
