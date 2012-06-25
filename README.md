@@ -11,11 +11,11 @@ For this work, you should configure the "config.cfg" file with descrive below:
 
 config.cfg
 
-[node1]
+'''[node1]
 host = foo.com.br
 username= varnishadm
 password = /root/.ssh/id_rsa.pub
-
+'''
 To inicialize the console:
 
 ./varnishadm.py -c config.cfg
