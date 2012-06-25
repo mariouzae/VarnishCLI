@@ -9,7 +9,7 @@ one command to execute in several Varnish Server's.
 
 For this work, you should configure the "config.cfg" file with descrive below:
 
-config.cfg
+in - config.cfg
 
 [node1]
 host = foo.com.br
