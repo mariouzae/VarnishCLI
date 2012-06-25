@@ -11,8 +11,8 @@ For this work, you should configure the "config.cfg" file with descrive below:
 
 config.cfg
 
-"[node1]"
-"host = foo.com.br"
+[node1]
+host = foo.com.br
 username = varnishadm
 password = /root/.ssh/id_rsa.pub
 '''
