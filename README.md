@@ -7,14 +7,7 @@ This software was created to execute commands for more than one Varnish's server
 have two Varnish's server and wish invalidate an one object by Varnishadm, with this software you can execute 
 one command to execute in several Varnish Server's.
 
-For this work, you should configure the "config.cfg" file with descrive below:
-
-in - config.cfg
-
-[node1]
-host = foo.com.br
-username = varnishadm
-password = /root/.ssh/id_rsa.pub
+For this work, you should configure the "config.cfg" file to set yours Varnish server's.
 
 To inicialize the console:
 
