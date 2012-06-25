@@ -63,8 +63,8 @@ def readConfig(file, cmd):
      if values[0] == "password":
       password = values[1]
 
- # Call function to execute this commands
- execCMD(host, username, password, cmd)
+  # Call function to execute this commands
+  execCMD(host, username, password, cmd)
 
 # Major Console Line Interface
 def main():
@@ -109,6 +109,7 @@ Options\n
    readConfig(file, cmd)
   else:
    print "error"
+   
 
 # Init 
 if __name__ == '__main__':
