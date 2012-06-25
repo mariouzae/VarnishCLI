@@ -7,7 +7,7 @@ This software was created to execute commands for more than one Varnish's server
 have two Varnish's server and wish invalidate an one object by Varnishadm, with this software you can execute 
 one command to execute in several Varnish Server's.
 
-Requirements:
+Requirements
 Python 2.4 +
 Python-Paramiko
 Python-ConfigParse
