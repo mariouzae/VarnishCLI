@@ -8,9 +8,9 @@ have two Varnish's server and wish invalidate an one object by Varnishadm, with 
 one command to execute in several Varnish Server's.
 
 Requirements:
- Python 2.4 +
- Python-Paramiko
- Python-ConfigParse
+Python 2.4 +
+Python-Paramiko
+Python-ConfigParse
  
 For this work, you should configure the "config.cfg" file to set yours Varnish server's.
 
